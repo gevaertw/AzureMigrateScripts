@@ -1,4 +1,8 @@
 #!/bin/bash
+
+#this script does a rest API call to create an assessment group in an assessment project
+
+# Define parameters
 subscriptionId=05fe112a-5805-461b-aa95-ef3396b4141d
 resourceGroupName=migtestAPI-rg
 assessmentProjectName=justiceProject026e28project

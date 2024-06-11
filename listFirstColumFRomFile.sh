@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# This script teads a CSV file with tab separated values.  It reads the first column of each line and adds the values to a list.  The VM migration assesment functionality is probably not working as the script is not complete
+
+# define parameters
 subscriptionId=05fe112a-5805-461b-aa95-ef3396b4141d
 resourceGroupName=migtestAPI-rg
 assessmentProjectName=justiceProject026e28project
