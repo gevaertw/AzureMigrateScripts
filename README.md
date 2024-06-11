@@ -1,8 +1,6 @@
 A collection of scripts that automates the Azure migration assesments.
 
-In order to use the script you need to have the following:
-- An azure migration project created in Azure, preferably one resource group per project.
-- In the resource group you need look for the hidden items and copy the name of the assessment project.  The name is similar to the project name, but not the same
+In order to use the script you need to have an azure migration project created in Azure, preferably one resource group per project.  the project should already have VM's in it.
 
 
 assessmentProjectName=  # This is the name of the migration project
