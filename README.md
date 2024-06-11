@@ -1,4 +1,4 @@
-Partialy playing (fighting) with bash and AZ Rest API, Partialy automating the group creation in azure migration assesments.
+A collection of scripts that automates the Azure migration assesments.
 
 In order to use the script you need to have the following:
 - An azure migration project created in Azure, preferably one resource group per project.
@@ -7,3 +7,5 @@ In order to use the script you need to have the following:
 
 assessmentProjectName=  # This is the name of the migration project
 assessmentGroupName=    # This is the name of the group that will be created in the assessment project
+
+Also scripting examples for bash and az rest
